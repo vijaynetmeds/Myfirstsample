@@ -14,7 +14,7 @@ namespace Myfirstsample
 
         }
 
-        public void get()
+        public void get13()
         {
 
         }
