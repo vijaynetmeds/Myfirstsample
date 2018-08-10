@@ -13,5 +13,10 @@ namespace Myfirstsample
         {
 
         }
+
+        public void get()
+        {
+
+        }
     }
 }
